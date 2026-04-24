@@ -1,0 +1,23 @@
+DYNAMIC UPLOADING THE FILES INTO GITHUB:
+
+
+git --global user.username "xyz"
+git --global user.email "email"
+
+
+
+git init
+git add .
+git commit -m "anymsg"
+git branch -M bn
+git remote add origin repo-url
+git push -u origin bn
+
+git status
+git branch  
+
+
+
+
+
+
